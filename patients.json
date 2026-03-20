@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "city": "Pune",
+        "age": 28,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 70,
+        "bmi": 22.9,
+        "verdict": "Normal"
+    },
+    {
+        "id": 2,
+        "name": "Sneha Patil",
+        "city": "Mumbai",
+        "age": 34,
+        "gender": "Female",
+        "height": 1.62,
+        "weight": 80,
+        "bmi": 30.5,
+        "verdict": "Obese"
+    },
+    {
+        "id": 3,
+        "name": "Amit Verma",
+        "city": "Delhi",
+        "age": 41,
+        "gender": "Male",
+        "height": 1.8,
+        "weight": 92,
+        "bmi": 28.4,
+        "verdict": "Overweight"
+    },
+    {
+        "id": 4,
+        "name": "Priya Kulkarni",
+        "city": "Nagpur",
+        "age": 25,
+        "gender": "Female",
+        "height": 1.68,
+        "weight": 50,
+        "bmi": 17.7,
+        "verdict": "Underweight"
+    },
+    {
+        "id": 5,
+        "name": "Rohan Deshmukh",
+        "city": "Nashik",
+        "age": 37,
+        "gender": "Male",
+        "height": 1.72,
+        "weight": 76,
+        "bmi": 25.7,
+        "verdict": "Overweight"
+    },
+    {
+        "id": 6,
+        "name": "Jow black",
+        "city": "New York",
+        "age": 21,
+        "gender": "Female",
+        "height": 175.5,
+        "weight": 45.5,
+        "bmi": 14.77,
+        "verdict": "Underweight"
+    }
+]
